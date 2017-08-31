@@ -8,3 +8,36 @@ body {
   color: white;
   text-align: center;
 }
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+#header p {
+  font-size: 14px;
+}
+
+a:link,
+a:visited,
+a:active {
+    color: white;
+}
+
+#banner {
+  font-size: 23px;
+  color: white;
+  font-weight: bold;
+  background-image: url(../images/the-flatiron-building.png);
+}
+
+#footer {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+#footernav {
+  font-size: 14px;
+}
